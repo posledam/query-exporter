@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beeline.QueryExporter", "Beeline.QueryExporter\Beeline.QueryExporter.csproj", "{7B8629A7-E3D5-4E91-B67B-F7057B04A263}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B8629A7-E3D5-4E91-B67B-F7057B04A263}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B8629A7-E3D5-4E91-B67B-F7057B04A263}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B8629A7-E3D5-4E91-B67B-F7057B04A263}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B8629A7-E3D5-4E91-B67B-F7057B04A263}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F0B2D05-B0CD-4B59-B1D2-8968D13B3879}
+	EndGlobalSection
+EndGlobal
